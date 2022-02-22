@@ -5,8 +5,11 @@ The main of this project is prove that LSTM algorithm can be used replace PID co
 ## Technology used:- NLP
 ## Programming Language used:- Python
 ## Libraries used:- TCLAB, Tenserflow,Numpy,Pandas and Matplotlib
+
+## Result
 <img src="pid_lstm_controller_100_mins.gif" alt=""/>
 </br>
+
 ## Group members
 1. Saurabh Jejurkar
 2. Atharva Ingle
