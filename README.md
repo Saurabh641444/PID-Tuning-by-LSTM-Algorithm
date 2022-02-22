@@ -4,7 +4,7 @@ This Repository Contain Code of my Control theory Course Project
 The main of this project is prove that LSTM algorithm can be used replace PID controller.
 ## Technology used:- NLP
 ## Programming Language used:- Python
-## Libraries used:- TCLAB, Tenserflow
+## Libraries used:- TCLAB, Tenserflow,Numpy,Pandas and Matpplotlib
 ## Group members
 1. Saurabh Jejurkar
 2. Atharva Ingle
